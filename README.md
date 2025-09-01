@@ -4,7 +4,7 @@
 ## https://huggingface.co/spaces/KishoreR123/Life-Expectancy-Prediction
 
 
-## App Phoyo :
+## App Photo :
 
 
 <img width="1895" height="780" alt="image" src="https://github.com/user-attachments/assets/8686feb4-ca74-4a4e-8802-1c927f4a228d" />
